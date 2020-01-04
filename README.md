@@ -35,13 +35,14 @@
 
 ## After Next Steps
 1. Create a sample webapp, iOS and Android to demonstrate how to integrate successfully into the API
-1. Create a URL transformation for 1 Podcast feed.
+1. Create a URL proxy transformation for 1 Podcast feed.
    1. Metadata (AV, description, contact, pre, post and mid rolls)
    2. Integration into payment systems (paypal, patreon, venmo.. etc)
    3. Fan created kickstarter pages
    4. Portable data/RSS/OPML
 
-## Future steps   
+## Future steps
+1. Proxying email communication.
 1. Charging for API usage, developers are the 3rd audience.
 2. Integration of guest episodes for good podcasts to offer other good podcasts.
 3. Sorting episodes not just based on time, but on feature epoisdes, getting started episodes.
