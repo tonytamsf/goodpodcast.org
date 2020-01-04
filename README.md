@@ -41,7 +41,7 @@
    3. Fan created kickstarter pages
    4. Portable data/RSS/OPML
 
-### Future steps   
+## Future steps   
 1. Charging for API usage, developers are the 3rd audience.
 2. Integration of guest episodes for good podcasts to offer other good podcasts.
 3. Sorting episodes not just based on time, but on feature epoisdes, getting started episodes.
