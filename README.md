@@ -46,3 +46,6 @@
 1. Charging for API usage, developers are the 3rd audience.
 2. Integration of guest episodes for good podcasts to offer other good podcasts.
 3. Sorting episodes not just based on time, but on feature epoisdes, getting started episodes.
+
+## Research
+1. https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/
